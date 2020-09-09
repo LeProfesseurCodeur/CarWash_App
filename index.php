@@ -663,7 +663,105 @@
             </div>
             <div class="clearfix"> </div>
         </div>-->
-        <div class="team" style="padding-top:5%;">
+        <div class="container">
+        <h5 class="section-title h1 pt-5" style="text-align: center;
+            color: #3498db;
+            margin-bottom: 50px;
+            text-transform: uppercase;
+            font-weight: 700;">Wash'n Factory s'est aussi...
+        </h5>
+
+            <div class="row">
+                <!-- Add the extra clearfix for only the required viewport -->
+                <div class="clearfix hidden-sm-down hidden-lg-up"></div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/pose-vitres-teintees.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Pose de films <br /> teintés</h4></center>
+                            <p class="card-text" style="padding:15px">Wash'n Factory ce n'est pas qu'un lavage de votre véhicule. Notre team est aussi expert dans la pose de vitrage teinté et selon la teinte que vous souaitez obtenir.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/parebrise.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Remplacement de pare-brise</h4></center>
+                            <p class="card-text" style="padding:15px">L'équipe de Wash'n Factory est aussi expertisé dans le remplacement de pare-brise. Nous vous garentissons une pose efficace sans contrainte avec les différentes capteurs</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/interieur_nettoyage.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Pressing, Détachage intérieur, Rénovateur</h4></center>
+                            <p class="card-text" style="padding:15px">Besoin d'une voiture propre dans un court délai ? Ne vous en faite pas ! Wash'n Factory vous permet de retrouver votre véhciule propre en 40 minutes.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/lavage_pro.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Traitement de carrosserie</h4></center>
+                            <p class="card-text" style="padding:15px">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <!-- Add the extra clearfix for only the required viewport -->
+                <div class="clearfix hidden-sm-down hidden-lg-up"></div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/optique.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Rénovateur optiques avant/arrière</h4></center>
+                            <p class="card-text" style="padding:15px">Wash'n Factory ce n'est pas qu'un lavage de votre véhicule. Notre team est aussi expert dans la pose de vitrage teinté et selon la teinte que vous souaitez obtenir.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/traitement.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Rénovateur complet carrosserie</h4></center>
+                            <p class="card-text" style="padding:15px">L'équipe de Wash'n Factory est aussi expertisé dans le remplacement de pare-brise. Nous vous garentissons une pose efficace sans contrainte avec les différentes capteurs</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/lavage_simple.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Peinture carrosserie <br />sur demande</h4></center>
+                            <p class="card-text" style="padding:15px">Besoin d'une voiture propre dans un court délai ? Ne vous en faite pas ! Wash'n Factory vous permet de retrouver votre véhciule propre en 40 minutes.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 col-lg-3">
+                    <div class="card">
+                        <img class="card-img-top" src="images/lavage_pro.jpg" alt="Card image cap">
+                        <div class="card-block">
+                            <center><h4 class="card-title mt-3">Prestations complémentaires</h4></center>
+                            <p class="card-text" style="padding:15px">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team" style="padding-top:5%">
             <div class="container">
                 <div class="team-head text-center">
                     <h3 class="h3_title_section">Our team</h3>
